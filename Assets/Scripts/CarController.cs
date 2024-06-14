@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class CarController : MonoBehaviour
 {
-    
     public float acceleration = 1000f;
     public float turnSpeed = 300f;
     public float maxSpeed = 20f;
@@ -47,5 +46,3 @@ public class CarController : MonoBehaviour
         }
     }
 }
-    
-
